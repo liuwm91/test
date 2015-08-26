@@ -1,7 +1,8 @@
 {
     "name": "waymen/test",
     "description": "A short description of what your package does",
-    "require": {
-        "php": ">=5.4.0"
-    }
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "license": "MIT"
 }
